@@ -1,0 +1,11 @@
+.header{
+    background-image: url("/Images/hill.jpg");
+    background-size: cover;
+    width: 100%;
+    height: 700px;
+    align-items: center;
+    color: blanchedalmond;
+    text-align: center;
+    padding: 20%;
+    
+}

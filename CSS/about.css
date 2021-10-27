@@ -1,0 +1,108 @@
+.heading{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    width: 100%;
+    height: 50px;
+    
+    font-weight: 500;
+
+}
+.about-container{
+    height:max-content;
+    width:100% ;
+    padding-top: 50px;
+}
+hr{
+    width: 5%;
+    line-height: 25%;
+    border: none;
+    height: 3px;
+    background-color: #333;
+}
+.info{
+    width: 50%;
+    height: 700px;
+    
+    float: left;
+    margin-top: 30px;
+    padding-left: 100px;
+}
+.tech{
+    width: 50%;
+    height: 700px;
+    
+    float: left;
+    margin-top: 30px;
+
+}
+.hexagon{
+    clip-path:polygon(25% 5%, 75% 5%, 100% 50%, 75% 95%, 25% 95%, 0% 50%);
+    margin-left: 10%;
+    width: 300px;
+    height: 300px;
+    background-image: image("Images/akhila.jpg");
+    background-size: cover;
+}
+img{
+    width: 300px;
+    height: 350px;
+    margin-top: 30px;
+}
+.writing{
+    width: 395px;
+    height: 350px;
+    
+    text-align: center; 
+}
+#who{
+    font-size: 18pt;
+    font-family: Arial, Helvetica, sans-serif ;
+    color: rgb(70, 67, 67) ;
+    font-weight: bold;
+}
+.tech-container{
+    width:330px ;
+    height: 600px;
+    
+    margin-left: 190px;
+    margin-top: 80px;
+}
+.progress{
+    width: 250px;
+    height: 20px;
+}
+#skill{
+    margin-top: 30px;
+    padding: 30px;
+    color: white;
+    column-width: 100px;
+    
+}
+#pro{
+    
+        width: 200px;
+        height: 200px;
+        margin-top: -12px;
+}
+.follow-me{
+    width: 395px;
+    height: 50px;
+    font-size: 2rem;
+    align-items: center;
+    
+    padding-left: 25%;
+    
+    
+}
+.bi-github{
+    color: #171515;
+}
+.bi-facebook{
+    color:#4267B2;}
+.bi-linkedin{
+    color: #0e76a8;
+}    
+.bi-instagram{
+    background-image: linear-gradient(45deg,#405de6,#5851db,#833ab4,#c13584,#e1306c,#fd1d1d);
+    
+}

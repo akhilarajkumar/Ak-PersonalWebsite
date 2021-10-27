@@ -1,0 +1,57 @@
+.contact{
+    width: 100%;
+    height: 700px;
+    background-color: #000316;
+    align-items: center;
+    padding-top: 140px;
+    padding-left: 35px;
+    margin-bottom: 0;
+}
+.frm{
+    width: 40%;
+    height: 250px;
+    
+    margin-left: 377px;
+    
+}
+.con{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    width: 100%;
+    height: 150px;
+    background-color: #000316;
+    font-weight: 500;
+    margin-top: 10px;
+    padding-top: 30px;
+    color:white;
+}
+#dash-con{
+    width: 5%;
+    line-height: 25%;
+    border: none;
+    height: 3px;
+    background-color: white;
+}
+.form-control{
+    background-color: black;
+    color: blanchedalmond;
+    margin: 2%;
+}
+.turquoise{
+    width:100%;
+    line-height: 25%;
+    border: none;
+    height: 3px;
+    background-color: turquoise;
+    margin-top: 0%;
+
+}
+.footer {
+    height: 50px;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #02061b;
+    color: white;
+    text-align: center;
+  }

@@ -1,0 +1,18 @@
+.navbar{
+    width: 100%;
+    
+    
+}
+.bg-warning{
+    background-color: #02061b!important;
+}
+.navigation{
+    width: 100%;
+    border-bottom: 3px solid turquoise;
+}
+.active{
+color: #ee1657!important;
+}
+a:hover {
+    color: #ee1657!important;
+  }
